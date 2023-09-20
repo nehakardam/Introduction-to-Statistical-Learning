@@ -1,6 +1,6 @@
-# Course: EE 511 Introduction to Statistical Learning
+# Introduction to Statistical Learning
 
-Welcome to the README file for the projects completed as part of the course "EE 511 Introduction to Statistical Learning." This repository contains a collection of diverse projects, each addressing unique topics and challenges in the field of statistical learning and machine learning. Below, you will find brief descriptions of each project:
+Welcome to the README file for the projects completed as part of the course "Introduction to Statistical Learning." This repository contains a collection of diverse projects, each addressing unique topics and challenges in the field of statistical learning and machine learning. Below, you will find brief descriptions of each project:
 
 ## Project 1: Performance Comparison of K-Nearest-Neighbor and Gaussian Classifiers on Zipcode Data
 
