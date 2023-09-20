@@ -18,6 +18,10 @@ This project tackled the challenging task of text classification using the 20 Ne
 
 This project encompassed two distinct components. First, we engaged in neural network warm-up exercises, generating synthetic data and implementing classification models. Second, we explored autoencoders for dimensionality reduction on galaxy images, comparing their performance with Principal Component Analysis (PCA).
 
+## Project 5: Language Identification in Twitter Data Using Machine Learning
+
+Developed a language identification system for classifying Twitter text into nine Western European languages. Implemented three models: Language-dependent Markov Models, Recurrent Neural Networks (RNNs), and Convolutional Neural Networks (CNNs). Preprocessed Twitter text data, created character-level vocabularies, and achieved model accuracy using validation and test data. Demonstrated proficiency in machine learning and deep learning techniques for text classification.
+
 ## Project 5: Academic Support and Engagement Prediction Among Engineering Students
 
 This project involved a comprehensive study on academic support and engagement among engineering students. Leveraging machine learning algorithms, we predicted students' academic support and engagement scales based on survey data. The results provide valuable insights into tailoring educational experiences for student success.
