@@ -16,28 +16,28 @@
 - Generated two plots showing true labels and predicted labels on a grid, providing insights into model performance.
 
 ## Autoencoder:
-1. Data Preprocessing
+### 1. Data Preprocessing
 - Utilized images of galaxies from the Galaxy Zoo project.
 - Resized and converted images to 20x20 pixels and grayscale.
 
-2. PCA Dimensionality Reduction
+### 2. PCA Dimensionality Reduction
 - Employed PCA to reduce images to 25 dimensions and reconstructed them.
 - Calculated the reconstruction error on the validation and test sets.
 
-3. Autoencoder Training
+### 3. Autoencoder Training
 - Trained an autoencoder with a 25-dimensional bottleneck layer.
 - Explored various hyperparameters, such as activation functions, learning rates, regularization, and hidden layer sizes.
 - Measured model performance using the average squared error per pixel on the validation set.
 
-4. Comparison with PCA
+### 4. Comparison with PCA
 - Compared autoencoder and PCA performance using the test data.
 - Analyzed situations where one method outperformed the other.
 
-5. Image Reconstruction
+### 5. Image Reconstruction
 - Displayed original images, PCA reconstructions, and autoencoder outputs side-by-side.
 - Commented on the suitability of each technique for different image qualities.
 
-6. Finding Similar Images
+### 6. Finding Similar Images
 - Identified the three closest training set images to selected test images using PCA and autoencoder representations.
 - Provided insights into the effectiveness of both approaches for finding similar images.
 
