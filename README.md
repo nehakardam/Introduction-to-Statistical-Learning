@@ -22,7 +22,7 @@ This project encompassed two distinct components. First, we engaged in neural ne
 
 Developed a language identification system for classifying Twitter text into nine Western European languages. Implemented three models: Language-dependent Markov Models, Recurrent Neural Networks (RNNs), and Convolutional Neural Networks (CNNs). Preprocessed Twitter text data, created character-level vocabularies, and achieved model accuracy using validation and test data. Demonstrated proficiency in machine learning and deep learning techniques for text classification.
 
-## Project 6: [Academic Support and Engagement Prediction Among Engineering Students](#README_P6.md)
+## Project 6: [Academic Support and Engagement Prediction Among Engineering Students](README_P6.md)
 
 This project involved a comprehensive study on academic support and engagement among engineering students. Leveraging machine learning algorithms, we predicted students' academic support and engagement scales based on survey data. The results provide valuable insights into tailoring educational experiences for student success.
 
